@@ -8,7 +8,7 @@ var weaponChest = ['Mace', 'Sorcerer stone', 'Excalibur']
 var hero = {
   'wizard' : 'Merlin',
   'weapon' : 'Mace',
-  'power' : '50'
+  'power' : 50
 }
 
 function swordInTheStone(worthy){
